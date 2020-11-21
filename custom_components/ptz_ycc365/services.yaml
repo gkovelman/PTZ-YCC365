@@ -8,7 +8,7 @@ move_left:
       # Description of the field
       description: "Local ip address of the camera (without http: //). Required."
       # Example value that can be passed for this field
-      example: "192.168.1.244"
+      example: "192.168.1.21"
     profile: 
       description: "Onvif profile that allows pant and tilt. Optional."
       example: "Profile_1"
@@ -26,7 +26,7 @@ move_rigth:
       # Description of the field
       description: "Local ip address of the camera (without http: //). Required."
       # Example value that can be passed for this field
-      example: "192.168.1.244"
+      example: "192.168.1.21"
     profile: 
       description: "Onvif profile that allows pant and tilt. Optional."
       example: "Profile_1"
@@ -44,7 +44,7 @@ move_up:
       # Description of the field
       description: "Local ip address of the camera (without http: //). Required."
       # Example value that can be passed for this field
-      example: "192.168.1.244"
+      example: "192.168.1.21"
     profile: 
       description: "Onvif profile that allows pant and tilt. Optional."
       example: "Profile_1"
@@ -62,7 +62,7 @@ move_down:
       # Description of the field
       description: "Local ip address of the camera (without http: //). Required."
       # Example value that can be passed for this field
-      example: "192.168.1.244"
+      example: "192.168.1.21"
     profile: 
       description: "Onvif profile that allows pant and tilt. Optional."
       example: "Profile_1"
@@ -80,7 +80,7 @@ move_stop:
       # Description of the field
       description: "Local ip address of the camera (without http: //). Required."
       # Example value that can be passed for this field
-      example: "192.168.1.244"
+      example: "192.168.1.21"
     profile: 
       description: "Onvif profile that allows pant and tilt. Optional."
       example: "Profile_1"
@@ -95,7 +95,7 @@ move_origin:
       # Description of the field
       description: "Local ip address of the camera (without http: //). Required."
       # Example value that can be passed for this field
-      example: "192.168.1.244"
+      example: "192.168.1.21"
     profile: 
       description: "Onvif profile that allows pant and tilt. Optional."
       example: "Profile_1"
@@ -113,7 +113,7 @@ move_origin_pan:
       # Description of the field
       description: "Local ip address of the camera (without http: //). Required."
       # Example value that can be passed for this field
-      example: "192.168.1.244"
+      example: "192.168.1.21"
     profile: 
       description: "Onvif profile that allows pant and tilt. Optional."
       example: "Profile_1"
@@ -128,7 +128,7 @@ move_origin_tilt:
       # Description of the field
       description: "Local ip address of the camera (without http: //). Required."
       # Example value that can be passed for this field
-      example: "192.168.1.244"
+      example: "192.168.1.21"
     profile: 
       description: "Onvif profile that allows pant and tilt. Optional."
       example: "Profile_1"

@@ -1,7 +1,7 @@
 import requests
 import time
 
-DOMAIN = "ptz_camera"
+DOMAIN = "ptz_ycc365"
 
 ATTR_HOST = "host"
 ATTR_PROFILE = "profile"
