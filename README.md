@@ -46,7 +46,7 @@ elements:
       right: 25px
     tap_action:
       action: call-service
-      service: ptz_camera.move_up
+      service: ptz_ycc365.move_up
       service_data:
         host: 192.168.1.21
     type: icon
@@ -57,7 +57,7 @@ elements:
       right: 25px
     tap_action:
       action: call-service
-      service: ptz_camera.move_down
+      service: ptz_ycc365.move_down
       service_data:
         host: 192.168.1.21
     type: icon
@@ -68,7 +68,7 @@ elements:
       right: 50px
     tap_action:
       action: call-service
-      service: ptz_camera.move_left
+      service: ptz_ycc365.move_left
       service_data:
         host: 192.168.1.21
     type: icon
@@ -79,7 +79,7 @@ elements:
       right: 0px
     tap_action:
       action: call-service
-      service: ptz_camera.move_rigth
+      service: ptz_ycc365.move_rigth
       service_data:
         host: 192.168.1.21
     type: icon
