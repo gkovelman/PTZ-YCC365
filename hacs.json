@@ -1,4 +1,5 @@
 {
   "name": "PTZ Services for the YCC 365 Cameras",
-  "render_readme": true
+  "render_readme": true,
+  "domains": "ptz_ycc365"
 }

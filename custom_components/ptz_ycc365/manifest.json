@@ -5,8 +5,8 @@
   "requirements": [],
   "dependencies": [],
   "codeowners": [
+    "@SanyaDez",
     "@fjramirez1987",
-    "@OptimusGREEN",
-    "@SanyaDez"
+    "@OptimusGREEN"
   ]
 }

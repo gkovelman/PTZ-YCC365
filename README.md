@@ -83,7 +83,7 @@ elements:
       service_data:
         host: 192.168.1.21
     type: icon
-  - entity: switch.sonoff_outdoor
+  - entity: switch.sonoff_10005330a7
     style:
       background: 'rgba(255, 255, 255, 0.5)'
       bottom: 0px
@@ -92,7 +92,7 @@ elements:
       action: call-service
       service: switch.toggle
       service_data:
-        entity_id: switch.sonoff_outdoor
+        entity_id: switch.sonoff_10005330a7
     type: state-icon
   - entity: camera.outdoor
     icon: 'mdi:cctv'
