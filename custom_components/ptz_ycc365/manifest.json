@@ -1,0 +1,12 @@
+{
+  "domain": "ptz_ycc365",
+  "name": "PTZ Services for the YCC 365 Cameras",
+  "documentation": "https://github.com/sanyadez/PTZ-YCC365",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@fjramirez1987",
+    "@OptimusGREEN",
+    "@SanyaDez"
+  ]
+}
