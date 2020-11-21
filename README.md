@@ -29,7 +29,7 @@ You can use custom firmware to hack the camera and use curl commands to control 
 To add services to the Home Assistant you need just include next code in your configuration.yaml:
 
 ```
-ptz_camera:
+ptz_ycc365:
 ```
 
 
