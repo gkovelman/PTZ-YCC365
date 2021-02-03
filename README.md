@@ -104,8 +104,6 @@ elements:
       action: more-info
     type: state-icon
 entity: camera.outdoor
-tap_action:
-  action: more-info
 type: picture-elements
 ```
 
