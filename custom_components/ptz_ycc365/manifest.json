@@ -1,6 +1,7 @@
 {
   "domain": "ptz_ycc365",
   "name": "PTZ Services for the YCC 365 Cameras",
+  "version": "1.0.0",
   "documentation": "https://github.com/sanyadez/PTZ-YCC365",
   "requirements": [],
   "dependencies": [],
